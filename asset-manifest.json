@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-4-reader/static/css/main.be6363cb.chunk.css",
+    "main.js": "/react-hw-4-reader/static/js/main.ac661190.chunk.js",
+    "main.js.map": "/react-hw-4-reader/static/js/main.ac661190.chunk.js.map",
+    "runtime~main.js": "/react-hw-4-reader/static/js/runtime~main.7a1c459a.js",
+    "runtime~main.js.map": "/react-hw-4-reader/static/js/runtime~main.7a1c459a.js.map",
+    "static/js/2.7da907a9.chunk.js": "/react-hw-4-reader/static/js/2.7da907a9.chunk.js",
+    "static/js/2.7da907a9.chunk.js.map": "/react-hw-4-reader/static/js/2.7da907a9.chunk.js.map",
+    "index.html": "/react-hw-4-reader/index.html",
+    "precache-manifest.413e86913792fa6571d3d6139db91ad1.js": "/react-hw-4-reader/precache-manifest.413e86913792fa6571d3d6139db91ad1.js",
+    "service-worker.js": "/react-hw-4-reader/service-worker.js",
+    "static/css/main.be6363cb.chunk.css.map": "/react-hw-4-reader/static/css/main.be6363cb.chunk.css.map"
+  }
+}
